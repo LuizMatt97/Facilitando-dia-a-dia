@@ -12,5 +12,7 @@
 • Visual Studio Code;
 • Node.js;
 
-# npm install readline-sync 
-O comando é um módulo do Node.js, utilizado para criar os scripts interativos no terminal.
+
+### npm install readline-sync - Foi utilizado este comando, que é um módulo do Node.js, utilizado para criar os scripts interativos no terminal.
+
+<img width="493" alt="print_codigo" src="https://user-images.githubusercontent.com/112408111/216841078-5971553d-6cda-4acb-b1e5-2e44cd114390.png">
