@@ -12,7 +12,23 @@
 • Visual Studio Code;
 • Node.js;
 
+# Execução do projeto
+## Para executar o projeto, bastar seguir essas instruções:
 
-### npm install readline-sync - Foi utilizado este comando, que é um módulo do Node.js, utilizado para criar os scripts interativos no terminal.
+Baixar o projeto.
+
+Abrir a pasta do projeto no terminal.
+
+Comando npm i para instalar as dependências.
+
+Comando npm start para iniciar a aplicação.
+
+Digite o nome da propriedade e clique enter para salvar na lista.
+
+Após terminar a lista, digite sair e clique enter.
+
+A lista com as propriedades salvas será exibida.
+
+### npm install readline-sync - readlineSync tenta permitir que seu script converse com o usuário por meio de um console.
 
 <img width="493" alt="print_codigo" src="https://user-images.githubusercontent.com/112408111/216841078-5971553d-6cda-4acb-b1e5-2e44cd114390.png">
